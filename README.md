@@ -35,3 +35,5 @@ Key Insights
 - Location plays a major role in restaurant success
 - Mid-range pricing attracts more customers
 - Votes and ratings are strongly correlated
+
+**Clone the repository:** https://github.com/Mozammil-Ansary/Zomato_Data_Analysis.git
