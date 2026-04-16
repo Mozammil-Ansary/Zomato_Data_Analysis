@@ -31,8 +31,6 @@ Contains information such as:
 
 Key Insights
 - Highly rated restaurants are not always expensive
-- Certain cuisines dominate specific regions
-- Location plays a major role in restaurant success
 - Mid-range pricing attracts more customers
 - Votes and ratings are strongly correlated
 
