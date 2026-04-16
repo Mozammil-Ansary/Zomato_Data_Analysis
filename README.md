@@ -41,3 +41,16 @@ Key Insights
 - Votes and ratings are strongly correlated
 
 **Clone the repository:** https://github.com/Mozammil-Ansary/Zomato_Data_Analysis.git
+
+🙋‍♂️ Author
+
+MD Mozammil Ansary
+B.Tech (Instrumentation & Control Engineering)
+Aspiring Data Scientist & ML Engineer
+⭐ Support
+
+If you like this project:
+
+⭐ Star this repository
+🍴 Fork it
+📢 Share with others
